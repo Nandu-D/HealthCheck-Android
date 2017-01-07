@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PracticeSet2</string>
+    <string name="welcome">Welcome</string>
+    <string name="question">Do you exercise once or more per week</string>
+    <string name="yes_button">YES</string>
+    <string name="sometimes_button">SOMETIMES</string>
+    <string name="no_button">NO</string>
+    <string name="reset">RESET</string>
+</resources>
